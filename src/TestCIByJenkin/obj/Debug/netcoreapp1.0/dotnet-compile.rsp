@@ -1,5 +1,5 @@
---temp-output:C:\DotNetWorkSpace\TestCIByJenkin\src\TestCIByJenkin\obj\Debug\netcoreapp1.0\
---out:C:\DotNetWorkSpace\TestCIByJenkin\src\TestCIByJenkin\bin\Debug\netcoreapp1.0\TestCIByJenkin.dll
+--temp-output:C:\DotNetWorkSpace\TestJenkins\testjenkins\src\TestCIByJenkin\obj\Debug\netcoreapp1.0\
+--out:C:\DotNetWorkSpace\TestJenkins\testjenkins\src\TestCIByJenkin\bin\Debug\netcoreapp1.0\TestCIByJenkin.dll
 --define:DEBUG
 --define:TRACE
 --define:NETCOREAPP1_0
@@ -196,7 +196,7 @@
 --reference:C:\Users\HP\.nuget\packages\System.Threading.Timer\4.0.1\ref\netstandard1.2\System.Threading.Timer.dll
 --reference:C:\Users\HP\.nuget\packages\System.Xml.ReaderWriter\4.0.11\ref\netstandard1.3\System.Xml.ReaderWriter.dll
 --reference:C:\Users\HP\.nuget\packages\System.Xml.XDocument\4.0.11\ref\netstandard1.3\System.Xml.XDocument.dll
---resource:"C:\DotNetWorkSpace\TestCIByJenkin\src\TestCIByJenkin\obj\Debug\netcoreapp1.0\TestCIByJenkindotnet-compile.deps.json",TestCIByJenkin.deps.json
-C:\DotNetWorkSpace\TestCIByJenkin\src\TestCIByJenkin\Program.cs
-C:\DotNetWorkSpace\TestCIByJenkin\src\TestCIByJenkin\Startup.cs
-C:\DotNetWorkSpace\TestCIByJenkin\src\TestCIByJenkin\Controllers\HomeController.cs
+--resource:"C:\DotNetWorkSpace\TestJenkins\testjenkins\src\TestCIByJenkin\obj\Debug\netcoreapp1.0\TestCIByJenkindotnet-compile.deps.json",TestCIByJenkin.deps.json
+C:\DotNetWorkSpace\TestJenkins\testjenkins\src\TestCIByJenkin\Program.cs
+C:\DotNetWorkSpace\TestJenkins\testjenkins\src\TestCIByJenkin\Startup.cs
+C:\DotNetWorkSpace\TestJenkins\testjenkins\src\TestCIByJenkin\Controllers\HomeController.cs
